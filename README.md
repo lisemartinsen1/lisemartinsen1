@@ -34,7 +34,7 @@ Java-utveckling	💻 Funktionell programmering 💻 Backend 1
 <br/> <!-- En ny rad här -->
 Objektorienterad programmering 💻 Databasteknik 💻 Backend 2
 <br/> <!-- En ny rad här -->
-Designmönster, Analys och Design 💻 Klientutveckling 💻 DevOps
+Designmönster, Analys och Design 💻 Klientutveckling 💻 DevOps 💻 It-säkerhet
 
 
 
