@@ -3,14 +3,6 @@
 **`Javastudent @ Nackademin`**
 
 
-⭐ **Favoritkurs** hittills är *Databasteknik*
-
-💫 Roligaste projektet är ShoeShop
-
-💭 Ser fram emot **Praktik**!
-
-📫 lise.martinsen@yh.nackademin.se
-
 
 ---
 ### Verktygslåda
